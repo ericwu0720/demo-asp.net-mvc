@@ -4,6 +4,9 @@
 #首頁
 ####
 ![image](https://user-images.githubusercontent.com/130069476/230762813-8439c283-67fc-48b3-9019-fd1f4adfa013.png)  
+#註冊登入
+####
+![image](https://user-images.githubusercontent.com/130069476/230765705-f0e54d29-6a42-4044-9d29-e3cf2aa6ac8a.png)
 #購物車頁面
 ####
 ![image](https://user-images.githubusercontent.com/130069476/230763017-2e22ce73-af9e-42d8-aaf2-46586a04a829.png)  
